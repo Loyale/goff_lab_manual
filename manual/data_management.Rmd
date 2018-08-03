@@ -1,7 +1,12 @@
-# Applications
+# Data Management
 
-Some _significant_ applications are demonstrated in this chapter.
+## Project-based
 
-## Example one
+### Reproducible Research
 
-## Example two
+### Useful Tools
+
+## Code
+### Version Control
+
+## Software
